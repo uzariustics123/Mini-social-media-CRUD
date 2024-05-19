@@ -1,0 +1,5 @@
+ErrorDocument 400 https://localhost/CRUDproject/views/404.html
+ErrorDocument 401 https://localhost/CRUDproject/views/404.html
+ErrorDocument 403 https://localhost/CRUDproject/views/404.html
+ErrorDocument 404 https://localhost/CRUDproject/views/404.html
+ErrorDocument 500 http://localhost/capstone-project/views/pages-500.php
